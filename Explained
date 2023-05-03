@@ -1,0 +1,5 @@
+The game starts with music playing in the background, and the game screen consists of a title, a playing board, a score display, and a restart button. The playing board is made up of a grid of cards, with each card having an image that corresponds to another card somewhere on the board.
+
+The game generates a new board with random card positions each time the game is restarted. The player must select two cards at a time, and if they match, the cards are removed from the board, and the player earns points. If they do not match, the cards are flipped back over, and the player loses a turn.
+
+The game ends when all cards have been matched, and the score is displayed. The player can then choose to restart the game.
